@@ -19,7 +19,7 @@ $(document).ready(function(){
 	});  
 });
 function obtenerDatos(etiqueta){
-//	alert("Etiqueta = " + $(etiqueta).first().html());
+    alert("Esto esta modificado por el usuario pacogit2 ");
 	
 /*	titulos=CDs[i].getElementsByTagName("TITLE");
 	$(etiqueta).each(function(){
