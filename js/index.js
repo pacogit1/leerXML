@@ -20,7 +20,7 @@ $(document).ready(function(){
 });
 function obtenerDatos(etiqueta){
     alert("Esto esta modificado por el usuario pacogit2 ");
-	
+	alert("Esto esta modificado por el usuario pacogit2 ");
 /*	titulos=CDs[i].getElementsByTagName("TITLE");
 	$(etiqueta).each(function(){
 		alert("Etiquetas dentro = " + $(this).html());
