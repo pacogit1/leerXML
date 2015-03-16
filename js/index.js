@@ -19,7 +19,7 @@ $(document).ready(function(){
 	});  
 });
 function obtenerDatos(etiqueta){
-    alert("Etiqueta");
+      alert("Etiqueta = ");
 //	alert("Etiqueta = " + $(etiqueta).first().html());
 	
 /*	titulos=CDs[i].getElementsByTagName("TITLE");
