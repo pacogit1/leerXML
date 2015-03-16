@@ -19,9 +19,10 @@ $(document).ready(function(){
 	});  
 });
 function obtenerDatos(etiqueta){
-      alert("Etiqueta = ");
-//	alert("Etiqueta = " + $(etiqueta).first().html());
-	
+    alert("Esto esta modificado por el usuario pacogit2 ");
+	alert("Esto esta modificado por el usuario pacogit2 ");
+        alert("Esto esta modificado desde el aula con padogit2");
+        
 /*	titulos=CDs[i].getElementsByTagName("TITLE");
 	$(etiqueta).each(function(){
 		alert("Etiquetas dentro = " + $(this).html());
