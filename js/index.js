@@ -22,7 +22,6 @@ function obtenerDatos(etiqueta){
     alert("Esto esta modificado por el usuario pacogit2 ");
 	alert("Esto esta modificado por el usuario pacogit2 ");
         alert("Esto esta modificado desde el aula con padogit2");
-   alert("Esto esta modificado desde el aula con padogit1");
 /*	titulos=CDs[i].getElementsByTagName("TITLE");
 	$(etiqueta).each(function(){
 		alert("Etiquetas dentro = " + $(this).html());
